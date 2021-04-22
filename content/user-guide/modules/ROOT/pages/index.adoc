@@ -1,0 +1,5 @@
+= User Guide
+
+== Welcome
+
+Welcome to our product! This is the user guide.
